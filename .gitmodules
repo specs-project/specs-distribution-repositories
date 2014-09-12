@@ -1,0 +1,3 @@
+[submodule "repositories/specs-mos-platform-packages.git"]
+	path = repositories/specs-mos-platform-packages.git
+	url = ../specs-mos-platform-packages.git
