@@ -1,0 +1,12 @@
+
+.*
+!/.gitignore
+!/.gitmodules
+!/.scripts
+!/.scripts/**
+
+!/repositories/.specs-repositories
+!/repositories/.mosaic-repositories
+
+*#
+*~
